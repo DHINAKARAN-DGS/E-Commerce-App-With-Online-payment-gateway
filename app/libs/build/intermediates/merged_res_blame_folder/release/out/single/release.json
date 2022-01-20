@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_stripadd.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\stripadd.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_profile_data_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\profile_data_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_razor.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\razor.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_tickmark.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\tickmark.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_phonetest.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\phonetest.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_trans.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\trans.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_strip_ad_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\strip_ad_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_deliveryimg.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\deliveryimg.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_slider_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_slider_bg.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\slider_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_trash.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\trash.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_grid_products_view.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\grid_products_view.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_order_status_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\order_status_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_sms_24.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\ic_baseline_sms_24.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_nonet.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\nonet.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_otplogo.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\otplogo.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_contact_us.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_payments_options.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\payments_options.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_star.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\star.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_bg.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\border_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_myrewards_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\myrewards_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_test2.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\test2.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_product_discription.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_product_discription.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_home.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_badge_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\badge_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_bookmark.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_cart.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_loginbg.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\loginbg.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_order_details_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\order_details_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_order_conformed.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_order_conformed.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_shopimg.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\shopimg.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_downarrow.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_cashond.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\cashond.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_giftcard.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\giftcard.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_forgot_pass.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\forgot_pass.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_coupon_reedem_dialog.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\coupon_reedem_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header_main.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_orders.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\orders.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_cod.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\cod.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_search.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\search.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_product_details.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_paytmtrans.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\paytmtrans.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\font_logofont.otf.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\font\\logofont.otf"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_default_dot.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\default_dot.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_plus.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\plus.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_qty.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\qty.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_wishlist_items_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\wishlist_items_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_my_address_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\my_address_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_cancel_sign.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\cancel_sign.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_search.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_category.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_greengradient.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\greengradient.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\menu_search_and_cart.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\menu\\search_and_cart.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_add_new_address.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_add_new_address.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_slideshow.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_settings.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\settings.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle_bg.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_nointernet.gif.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\nointernet.gif"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_order_details.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_thank_you_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\thank_you_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_orders.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_banner_ad.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\banner_ad.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_product_details_only.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\product_details_only.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_view_all.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_view_all.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_selected_dot.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\selected_dot.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_cart.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_categorie_items.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\categorie_items.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_product_specs_item_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\product_specs_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_continueshopping.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\continueshopping.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_my_rewards.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_my_rewards.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_cart.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\cart.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_addresses_container_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\addresses_container_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_netcc.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\netcc.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_quanty_dialogue.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\quanty_dialogue.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_rewards.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\rewards.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_p_r_o_d_u_c_ts_p_e_c_s.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_p_r_o_d_u_c_ts_p_e_c_s.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_options.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\options.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_product_images_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\product_images_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_worker.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\worker.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dashboard2.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_dashboard2.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_my_account.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_my_account.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_placeholder.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_tick.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\tick.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_app_bar_main.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_rating_dialog.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\rating_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_finalbox.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\finalbox.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_deliveryimage.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\deliveryimage.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\anim_fade_in.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_di.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\di.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_sign_in.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_otp_verification.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_otp_verification.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_rewards_items_mini.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\rewards_items_mini.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_shipping_details_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\shipping_details_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_content_main.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_rating_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\rating_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_untitled.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\untitled.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_cart_total_amount_latout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\cart_total_amount_latout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_myrewards.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\myrewards.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_horizontal_scroll_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\horizontal_scroll_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_horizontal_scroll_item.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\horizontal_scroll_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_account.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\account.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_wishlist.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_wishlist.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_notifications.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\notifications.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_happy_shop.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\happy_shop.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_logout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_starsforrating.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\starsforrating.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_rewards_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\rewards_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_back.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_delivery.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_delivery.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_happy_shopping_image.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\happy_shopping_image.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_home.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_upi.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\upi.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_order_items_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\order_items_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_cart_items_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\cart_items_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_myaddresses.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\activity_myaddresses.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_swap.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\swap.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\menu.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_loading_prog.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\loading_prog.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_firebasebg.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\firebasebg.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_sign_up.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_gradientbackground.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-v21\\gradientbackground.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_backapp.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\backapp.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_your_recent_order_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\your_recent_order_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_wishlist.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\wishlist.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_product_discription_layout.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\product_discription_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_dot_selector.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\dot_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_icon.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\menu\\menu_icon.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\menu_dashboard.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_delete.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\drawable_cod_indicator.png.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\drawable\\cod_indicator.png"
+    },
+    {
+        "merged": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\build\\intermediates\\res\\merged\\release\\layout_list_classes.xml.flat",
+        "source": "D:\\Users\\DG SOFTTECH\\AndroidStudioProjects\\Worker2\\app\\src\\main\\res\\layout\\list_classes.xml"
+    }
+]

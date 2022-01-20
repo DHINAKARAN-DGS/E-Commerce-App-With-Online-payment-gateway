@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/shadown_t"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="5dp"
+    android:elevation="5dp">
+
+  <ImageView
+      android:id="@+id/productImagesCart"
+      android:layout_width="80dp"
+      android:layout_height="80dp"
+      android:layout_marginStart="16dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:srcCompat="@drawable/placeholder" />
+
+  <TextView
+      android:id="@+id/productTextCart"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="16dp"
+      android:layout_marginTop="16dp"
+      android:layout_marginEnd="8dp"
+      android:text="Product Name"
+      android:maxLines="2"
+      android:textColor="#000"
+      android:textSize="16sp"
+      app:layout_constraintBottom_toBottomOf="@+id/RemoveItemText"
+      app:layout_constraintEnd_toStartOf="@+id/RemoveItemText"
+      app:layout_constraintStart_toEndOf="@+id/productImagesCart"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <TextView
+      android:id="@+id/singleProductPrice"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginEnd="16dp"
+      android:layout_marginBottom="8dp"
+      android:text="Rs.55,000"
+      android:textColor="#000"
+      android:textSize="20dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent" />
+
+  <TextView
+      android:id="@+id/mrpofSingleProduct"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Rs.54,000"
+      app:layout_constraintBottom_toTopOf="@+id/singleProductPrice"
+      app:layout_constraintEnd_toEndOf="@+id/singleProductPrice"
+      app:layout_constraintStart_toStartOf="@+id/singleProductPrice" />
+
+  <View
+      android:id="@+id/divider4"
+      android:layout_width="0dp"
+      android:layout_height="1dp"
+      android:background="?android:attr/listDivider"
+      android:backgroundTint="#000"
+      app:layout_constraintBottom_toBottomOf="@+id/mrpofSingleProduct"
+      app:layout_constraintEnd_toEndOf="@+id/mrpofSingleProduct"
+      app:layout_constraintStart_toStartOf="@+id/mrpofSingleProduct"
+      app:layout_constraintTop_toTopOf="@+id/mrpofSingleProduct" />
+
+  <TextView
+      android:id="@+id/deliveryQtyTextView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="16dp"
+      android:layout_marginTop="16dp"
+      android:layout_marginBottom="16dp"
+      android:background="@drawable/qty"
+      android:drawableEnd="@drawable/downarrow"
+      android:drawablePadding="5dp"
+      android:drawableTint="#000"
+      android:padding="3dp"
+      android:text="Qty: 1"
+      android:textColor="@color/black"
+      app:layout_constraintBottom_toBottomOf="@+id/productImagesCart"
+      app:layout_constraintStart_toEndOf="@+id/productImagesCart"
+      app:layout_constraintTop_toBottomOf="@+id/productTextCart" />
+
+
+  <ImageView
+      android:id="@+id/RemoveItemText"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="8dp"
+      android:layout_marginEnd="8dp"
+      android:background="@android:color/transparent"
+      android:drawablePadding="5dp"
+      android:src="@drawable/ic_baseline_clear_24"
+      android:textSize="16sp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

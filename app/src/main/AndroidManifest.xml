@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.daatstudios.cosmic_glow">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".homeact"></activity>
+        <activity android:name=".NewDashboardActivity" />
+        <activity android:name=".BikeTaxi" />
+        <activity android:name=".PandaPick" />
+        <activity android:name=".pickup" />
+        <activity android:name=".bike" />
+        <activity android:name=".contactUsActivity" />
+        <activity android:name=".searchActivity" />
+        <activity android:name=".otpVerificationActivity" />
+        <activity android:name=".orderConformed" />
+        <activity android:name=".paymentActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".viewAllActivity" />
+        <activity android:name=".myaddresses" />
+        <activity android:name=".addnewaddress" /> <!-- <activity android:name=".addAddressActivity" /> -->
+        <activity android:name=".delivery" />
+        <activity android:name=".MyAccount" />
+        <activity android:name=".MyRewards" />
+        <activity android:name=".wishlist" />
+        <activity android:name=".OrderDetails" />
+        <activity android:name=".Orders" />
+        <activity android:name=".CartActivity" />
+        <activity android:name=".ProductDetailsActivity" />
+        <activity android:name=".CategoryActivity" />
+        <activity android:name=".forgotPass" />
+        <activity android:name=".ViewAllCat" />
+        <activity
+            android:name=".DashboardActivity"
+            android:label="@string/title_activity_dashboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_4BHbxsATYg834f" />
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469724041335",
+    "project_id": "daat-ecomm-sp",
+    "storage_bucket": "daat-ecomm-sp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469724041335:android:2aa6053fd9245b2e7ab672",
+        "android_client_info": {
+          "package_name": "com.daatstudios.cosmic_glow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469724041335-m4u1eknmdsrg1uhm8843vg2jjlrf958t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHP-vZp3zFJPFiKaPcpd6y_YPVyNCe3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469724041335-m4u1eknmdsrg1uhm8843vg2jjlrf958t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

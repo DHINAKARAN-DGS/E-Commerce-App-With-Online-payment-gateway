@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+
+
+  <androidx.constraintlayout.widget.ConstraintLayout
+      android:id="@+id/homec"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:visibility="visible"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/categories_recyclarView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/refreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/categories_recyclarView">
+
+
+      <androidx.recyclerview.widget.RecyclerView
+          android:id="@+id/HomeRV"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          app:layout_constraintTop_toTopOf="@+id/categories_recyclarView" />
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+  </androidx.constraintlayout.widget.ConstraintLayout>
+
+  <ImageView
+      android:id="@+id/no_internet_img"
+      android:layout_width="250dp"
+      android:layout_height="250dp"
+      android:scaleType="fitCenter"
+      android:visibility="gone"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <TextView
+      android:id="@+id/noInternetTxt"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="16dp"
+      android:text="Sorry no internet connection available\n please turn on your internet"
+      android:textAlignment="center"
+      android:textSize="16sp"
+      android:textStyle="bold"
+      android:visibility="gone"
+      app:layout_constraintEnd_toEndOf="@+id/no_internet_img"
+      app:layout_constraintStart_toStartOf="@+id/no_internet_img"
+      app:layout_constraintTop_toBottomOf="@+id/no_internet_img" />
+
+  <Button
+      android:id="@+id/retry"
+      android:layout_width="100dp"
+      android:layout_height="40dp"
+      android:layout_marginTop="16dp"
+      android:text="Refresh"
+      android:visibility="gone"
+      android:background="@color/colorPrimary"
+      android:textColor="#FFF"
+
+      app:layout_constraintEnd_toEndOf="@+id/noInternetTxt"
+      app:layout_constraintStart_toStartOf="@+id/noInternetTxt"
+      app:layout_constraintTop_toBottomOf="@+id/noInternetTxt" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

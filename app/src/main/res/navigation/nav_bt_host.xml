@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bt_host"
+    app:startDestination="@id/homeFragment_BT">
+
+    <fragment
+        android:id="@+id/homeFragment_BT"
+        android:name="com.daatstudios.cosmic_glow.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/category_bt"
+        android:name="com.daatstudios.cosmic_glow.category_bt"
+        android:label="fragment_category_bt"
+        tools:layout="@layout/fragment_category_bt" />
+    <fragment
+        android:id="@+id/cart_bt"
+        android:name="com.daatstudios.cosmic_glow.cart_bt"
+        android:label="fragment_cart_bt"
+        tools:layout="@layout/fragment_cart_bt" />
+    <fragment
+        android:id="@+id/orders_bt"
+        android:name="com.daatstudios.cosmic_glow.orders_bt"
+        android:label="fragment_orders_bt"
+        tools:layout="@layout/fragment_orders_bt" />
+</navigation>

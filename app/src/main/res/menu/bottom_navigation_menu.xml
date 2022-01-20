@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment_BT"
+        android:icon="@drawable/home"
+        android:title="HOME"
+        android:iconTint="@color/black"/>
+    <item
+        android:id="@+id/category_bt"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Category" />
+    <item
+        android:id="@+id/cart_bt"
+        android:icon="@drawable/cart"
+        android:title="Cart"
+        android:iconTint="@color/black"/>
+    <item
+        android:id="@+id/orders_bt"
+        android:icon="@drawable/orders"
+        android:title="Orders"
+        android:iconTint="@color/black"/>
+</menu>

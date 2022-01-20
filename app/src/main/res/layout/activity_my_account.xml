@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MyAccount">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/layoutContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <include layout="@layout/profile_data_layout" />
+            <include layout="@layout/order_status_layout"/>
+            <include layout="@layout/your_recent_order_layout"/>
+
+            <include layout="@layout/my_address_layout" />
+
+            <Button
+                android:id="@+id/signout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_50dp"
+                android:layout_marginStart="@dimen/dimen_16dp"
+                android:layout_marginTop="9dp"
+                android:layout_marginEnd="@dimen/dimen_16dp"
+                android:background="@color/colorPrimary"
+                android:text="sign out"
+                android:textColor="@color/white"
+                android:layout_marginBottom="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+
+                android:layout_marginBottom="-25dp"
+                android:layout_gravity="center"
+                android:text="from"/>
+
+
+            <TextView
+                android:id="@+id/developercontact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Daat "
+                android:gravity="center"
+                android:fontFamily="@font/logofont"
+                android:textStyle="bold|italic"
+                android:textFontWeight="1000"
+                android:layout_gravity="center"
+                android:textSize="50dp"
+                android:layout_marginTop="-55dp"
+                android:layout_margin="@dimen/dimen_10dp"/>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
